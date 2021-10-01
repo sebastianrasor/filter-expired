@@ -1,4 +1,5 @@
 /*
+ * Copyright (c) 2019 Gilles Chehade <gilles@poolp.org>
  * Copyright (c) 2021 Sebastian Riley Rasor <https://www.sebastianrasor.com/contact>
  *
  * Permission to use, copy, modify, and distribute this software for any
